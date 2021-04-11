@@ -1,6 +1,5 @@
 ### Assalamualaikum  
-Ini merupakan test yang sangat delay di karenakan device saya yang mengalami kerusakan hardware, alhasil semua nya jadi pending.
-Dan saya sadar akan keterlambatan ini.  
+ 
 
 ### Framework 
 Laravel 8 : <a href="https://laravel.com/docs/8.x/readme">Docs</a>
